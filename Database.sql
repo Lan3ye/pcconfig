@@ -50,7 +50,7 @@ CREATE TABLE Configurations (
     ConfigurationID INT AUTO_INCREMENT PRIMARY KEY,
     ConfigurationName VARCHAR(255) NOT NULL,
     ConfigurationDescription TEXT,
-    CreationDate DATETIME,
+    CreationDate DATETIME
     -- Other general configuration-specific attributes
 );
 
