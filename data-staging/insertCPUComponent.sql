@@ -15,4 +15,5 @@ CoreCount = 6,
 ClockSpeed = '3.7',
 BoostClockSpeed = '4.6', 
 TDP = 65,
+APU = NULL;
 SMT = 'TRUE';
